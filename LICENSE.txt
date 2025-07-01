@@ -1,0 +1,37 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement ("Agreement") governs the use of the software and associated files ("Software") provided in this repository.
+
+1. GRANT OF LICENSE
+You are granted a limited, non-exclusive, non-transferable, revocable license to use the Software solely for personal, non-commercial purposes.
+
+2. RESTRICTIONS
+(a) You may not copy, reproduce, distribute, or otherwise make the Software available to any third party, in whole or in part, in any form or by any means.
+(b) You may not sell, license, sublicense, rent, lease, lend, or otherwise use the Software for any commercial purpose.
+(c) You may not modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
+(d) You may not remove or alter any proprietary notices or labels on the Software.
+
+3. OWNERSHIP
+The Software is licensed, not sold. All rights, title, and interest in and to the Software remain with the copyright holder.
+
+4. NO WARRANTY
+The Software is provided "AS IS" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+5. LIMITATION OF LIABILITY
+In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of the Software.
+
+6. TERMINATION
+This license is effective until terminated. It will terminate automatically without notice if you fail to comply with any provision of this Agreement. Upon termination, you must destroy all copies of the Software.
+
+7. THIRD-PARTY COMPONENTS
+If the Software includes or depends on third-party components, you must comply with their respective licenses.
+
+8. NO ACCREDITATION
+No attribution, credit, or accreditation is required for use as permitted by this Agreement.
+
+9. ALL RIGHTS RESERVED
+All rights not expressly granted herein are reserved by the copyright holder.
+
+By using the Software, you agree to be bound by the terms of this Agreement.
+
+Copyright (c) 2025. All rights reserved. Issued: 01-07-2025
